@@ -4,6 +4,7 @@
 This is a project purely made to give me and potentially other people Watch Orders for longer series with many entries mainly based on Release/Airing Dates, although it may vary depending on the series. All Entry links will link to the AniList pages of the entry. Series included so far:
 
 - [Detective Conan](#detective-conan)
+- [Inuyasha](#inuyasha)
 - [Rurouni Kenshin](#rurouni-kenshin)
 
 ## Detective Conan
@@ -165,6 +166,35 @@ Detective Conan is a TV Series that has been airing since 1996. It currently has
 | Movie | [Black Iron Submarine](https://anilist.co/anime/156841/) | 1 | Apr 14 2023 |
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 1080 -  |  |
 
+
+
+## Inuyasha
+
+An action-packed fantasy adventure by renowned author Rumiko Takahashi. Much like her old works Inuyasha is a long series that spawned multiple sidestories, seasons and even a full on sequel. Like most of Takahashi's works the original Inuyasha has received a full adaptation of its source material. The franchise consists of:
+- 4 TV Anime
+- 4 Movies
+- 2 Specials
+
+Of the specials, one is untranslated while the other is a crossover episode between Takahashi's series Ranma 1/2, Urusei Yatsura and Inuyasha. Both specials are included at the end of the order.
+
+| **Type** | **Entry** | **Episodes** | **Start Date** | **Notes** |
+| :------- | :-------- | :----------- | -------------: | :-------- |
+| TV      | [Inuyasha](https://anilist.co/anime/249/)                                                   | 1 - 55    | Oct 16 2000 |  |
+| Movie   | [Affections Touching Across Time](https://anilist.co/anime/452/)                            | 1         | Dec 22 2001 |  |
+| TV      | [Inuyasha](https://anilist.co/anime/249/)                                                   | 56 - 95   |  |  |
+| Movie   | [The Castle Beyond the Looking Glass](https://anilist.co/anime/450/)                        | 1         | Dec 21 2002 |  |
+| TV      | [Inuyasha](https://anilist.co/anime/249/)                                                   | 96 - 136  |  |  |
+| Movie   | [Swords of an Honorable Ruler](https://anilist.co/anime/451/)                               | 1         | Dec 20 2003 |  |
+| TV      | [Inuyasha](https://anilist.co/anime/249/)                                                   | 136 - 167 |  |  |
+| Movie   | [Fire on Mythic Island](https://anilist.co/anime/449/)                                      | 1         | Dec 23 2004 | Released after the series ended, but still a sidestory |
+| TV      | [Inuyasha: The Final Act](https://anilist.co/anime/6811/)                                   | 1 - 26    | Oct 04 2009 |  |
+| TV      | [Yashahime: Princess Half-Demon](https://anilist.co/anime/118399/)                          | 1 - 24    | Oct 03 2020 | TV Original continuation of Inuyasha |
+| TV      | [Yashahime: Princess Half-Demon - The Second Act](https://anilist.co/anime/131264/)         | 1 - 24    | Oct 02 2021 |  |
+| Special | [Inuyasha: Kuroi Tessaiga](https://anilist.co/anime/4886/)                                  | 1 | Jul 30 2008 | Untranslated special, that got slightly edited and is part of The Final Act |
+| Special | [It's a Rumic World: 50th Anniversary Weekly★Shonen Sunday](https://anilist.co/anime/6566/)    | 1 | Jul 30 2008 | 3 minute short Crossover episode |
+
+
+
 ## Rurouni Kenshin
 
 Rurouni Kenshin has a total of 8 Anime entries and currently 1 alternative TV Anime, they consist of:
@@ -173,21 +203,23 @@ Rurouni Kenshin has a total of 8 Anime entries and currently 1 alternative TV An
 - 3 Specials (One is an alternative Ending to the TV Series)
 - 1 Movie
 
+In 2023 the series received a remake spanning multiple seasons.
+
 **Original Series:**
 | **Type** | **Entry** | **Episodes** | **Start Date** | **Notes** |
 | :------- | :-------- | :----------- | -------------: | :-------- |
-| TV      | [Rurouni Kenshin (1996)](https://anilist.co/anime/45/)                | 1 - 44    | Jan 10 1996 | |
-| Special | [Rurouni Kenshin: Review Special](https://anilist.co/anime/9716/)     | 1         | Mar 26 1997 | Summary + Extras |
-| TV      | [Rurouni Kenshin (1996)](https://anilist.co/anime/45/)                | 45 - 63   |  | |
-| Special | [Rurouni Kenshin: Special Techniques](https://anilist.co/anime/4664/) | 1         | Oct 21 1997 | Extras |
-| TV      | [Rurouni Kenshin (1996)](https://anilist.co/anime/45/)                | 64 - 71   |  | |
-| Movie   | [Rurouni Kenshin: The Motion Picture](https://anilist.co/anime/46/)   | 1         | Dec 20 1997 | |
-| TV      | [Rurouni Kenshin (1996)](https://anilist.co/anime/45/)                | 72 - 94   |  | End of Series |
-| OVA     | [Rurouni Kenshin: End of Wanderings](https://anilist.co/anime/12067/) | 1         | Dec 2 1998  | Also known as Ep 95 |
-| OVA     | [Rurouni Kenshin: Trust & Betrayal](https://anilist.co/anime/44/)     | 1 - 4     | Feb 20 1999 | Prequel |
-| OVA     | [Rurouni Kenshin: Reflection](https://anilist.co/anime/401/)          | 1 - 2     | Dec 03 2001 | Sequel |
-| Special | [Rurouni Kenshin: Special Ending](https://anilist.co/anime/6591/)     | 1         | 2007        | 2 Minute alternative Ending |
-| OVA     | [Rurouni Kenshin: New Kyoto Arc](https://anilist.co/anime/11441/)     | 1 - 2     | Dec 17 2011 | Remake of the Kyoto Arc |
+| TV      | [Rurouni Kenshin (1996)](https://anilist.co/anime/45/)                  | 1 - 44    | Jan 10 1996 | |
+| Special | [Review Special](https://anilist.co/anime/9716/)                        | 1         | Mar 26 1997 | Summary + Extras |
+| TV      | [Rurouni Kenshin (1996)](https://anilist.co/anime/45/)                  | 45 - 63   |             | |
+| Special | [Special Techniques](https://anilist.co/anime/4664/)                    | 1         | Oct 21 1997 | Extras |
+| TV      | [Rurouni Kenshin (1996)](https://anilist.co/anime/45/)                  | 64 - 71   |             | |
+| Movie   | [Rurouni Kenshin: The Motion Picture](https://anilist.co/anime/46/)     | 1         | Dec 20 1997 | |
+| TV      | [Rurouni Kenshin (1996)](https://anilist.co/anime/45/)                  | 72 - 94   |             | End of Series |
+| OVA     | [End of Wanderings](https://anilist.co/anime/12067/)                    | 1         | Dec 2 1998  | Also known as Ep 95 |
+| OVA     | [Trust & Betrayal](https://anilist.co/anime/44/)                        | 1 - 4     | Feb 20 1999 | Prequel |
+| OVA     | [Reflection](https://anilist.co/anime/401/)                             | 1 - 2     | Dec 03 2001 | Sequel |
+| Special | [Special Ending](https://anilist.co/anime/6591/)                        | 1         | 2007        | 2 Minute alternative Ending |
+| OVA     | [New Kyoto Arc](https://anilist.co/anime/11441/)                        | 1 - 2     | Dec 17 2011 | Remake of the Kyoto Arc |
 
 **Remake:**
 | **Type** | **Entry** | **Episodes** | **Start Date** | **Notes** |
