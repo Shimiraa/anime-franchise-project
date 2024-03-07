@@ -6,8 +6,6 @@ This is a project purely made to give me and potentially other people Watch Orde
 - [Detective Conan](#detective-conan)
 - [Rurouni Kenshin](#rurouni-kenshin)
 
-<hr>
-
 ## Detective Conan
 
 Detective Conan is a TV Series that has been airing since 1996. It currently has accumulated over 1100 TV Episodes, numerous specials and roughly one movie every year ever since it started first airing. Since some of the OVAs, Movies and Specials aired inbetween multi-episode cases they are not put at the exact episode the aired after. When to watch the OVAs is taken from [this guide](https://dcrewatch.tumblr.com/orderguide). Conan Magic File 01 is not listed since its not considered new content. The Scarlet Alibi is also excluded since it's an unavailable summary movie.
@@ -47,21 +45,21 @@ Detective Conan is a TV Series that has been airing since 1996. It currently has
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 425 - 434 |  |
 | Movie | [Requiem of the Detectives](https://anilist.co/anime/1506/) | 1 | Apr 15 2006 |
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 435 - 459 |  |
-| OVA | [A Challenge from Agasa! </br>Agasa vs. Conan and the Detective Boys](https://anilist.co/anime/2597/) | 1 | Mar 13 2007 |
+| OVA | [A Challenge from Agasa! Agasa vs. Conan and the Detective Boys](https://anilist.co/anime/2597/) | 1 | Mar 13 2007 |
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 460-470 |  |
 | Movie | [Jolly roger in the Deep Azure](https://anilist.co/anime/2171/) | 1 | Apr 21 2007 |
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 471 - 490 |  |
 | OVA | [High School Girl Detective Sonoko Suzuki's Case Files](https://anilist.co/anime/6198/) | 1 | 2008 |
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 491 - 504 |  |
 | Movie | [Full Score of Fear](https://anilist.co/anime/4447/) | 1 | Apr 19 2008 |
-| OVA | [Magic File 02: Kudou Shinichi - The Case of the </br> Mysterious Wall and the Black Lab](https://anilist.co/anime/5348/) | 1 | Apr 19 2008 |
+| OVA | [Magic File 02: Kudou Shinichi - The Case of the  Mysterious Wall and the Black Lab](https://anilist.co/anime/5348/) | 1 | Apr 19 2008 |
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 505 - 520 |  |
 | OVA | [The Stranger in 10 Years...](https://anilist.co/anime/6438/) | 1 | Jun 17 2009 |
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 521 - 529 |  |
 | Special | [Lupin III vs. Detective Conan](https://anilist.co/anime/6115/) | 1 | Mar 27 2009 |
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 530 - 531 |  |
 | Movie | [The jet Black Chaser](https://anilist.co/anime/5460/) | 1 | Apr 18 2009 |
-| OVA | [Magic File 03: Shinichi and Ran - Memories </br> of Mahjong Tiles and Tanabata](https://anilist.co/anime/6231/) | 1 | Apr 18 2009 |
+| OVA | [Magic File 03: Shinichi and Ran - Memories  of Mahjong Tiles and Tanabata](https://anilist.co/anime/6231/) | 1 | Apr 18 2009 |
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 531 - 561 |  |
 | OVA | [Kid in Trap Island](https://anilist.co/anime/8609/) | 1 | Apr 14 2010 |
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 561 - 570 |  |
@@ -101,7 +99,7 @@ Detective Conan is a TV Series that has been airing since 1996. It currently has
 | TV | [Magic Kaito 1412](https://anilist.co/anime/20790/) | 7 - 8 |  |
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 761 - 762 |  |
 | TV | [Magic Kaito 1412](https://anilist.co/anime/20790/) | 9 - 11 |  |
-| Special | [The Disappearance of Conan Edogawa: </br>The Worst Two Days in History](https://anilist.co/anime/20878/) | 1 | Dec 26 2014 |
+| Special | [The Disappearance of Conan Edogawa: The Worst Two Days in History](https://anilist.co/anime/20878/) | 1 | Dec 26 2014 |
 | TV | [Magic Kaito 1412](https://anilist.co/anime/20790/) | 12 |  |
 | Special | [Happy New Year, Kogoro Mouri](https://anilist.co/anime/139179/) | 1 | Jan 03 2015 |
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 763 - 764 |  |
@@ -166,8 +164,6 @@ Detective Conan is a TV Series that has been airing since 1996. It currently has
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 1068 - 1079 |  |
 | Movie | [Black Iron Submarine](https://anilist.co/anime/156841/) | 1 | Apr 14 2023 |
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 1080 -  |  |
-
-<hr>
 
 ## Rurouni Kenshin
 
