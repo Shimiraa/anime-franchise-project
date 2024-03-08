@@ -1,5 +1,5 @@
 markdown: GFM
 title: Series Watch Order
-theme: minima
+theme: jekyll-theme-minima
 minima:
   skin: dark
