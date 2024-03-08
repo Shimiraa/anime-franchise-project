@@ -1,1 +1,5 @@
 markdown: GFM
+title: Series Watch Order
+theme: minima
+minima:
+  skin: dark
