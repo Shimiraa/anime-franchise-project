@@ -3,6 +3,17 @@
 
 Urusei Yatsura was Rumiko Takahashi's first big Anime hit. It was the series that basically shaped todays "Waifu"-Culture. Spanning over 5 years the original series has spawned many movies and spin-offs and in 2022 even gotten a remake.
 
+## Synopsis
+
+<div style="display: flex;">
+    <div style="width: 70%;">
+        Urusei Yatsura is the story of the unluckiest and most lecherous young man alive, Ataru Moroboshi. When aliens decide to invade Earth, Ataru is randomly selected to defend his planet by playing a game of the aliens national sport, tag. Should he win, the world shall be saved. However, Ataru is motivated for far less noble reasons, as the one he plays against is revealed to be the curvaceous alien princess, Lum. The game goes for 10 days, and on the last day, Ataru, motivated by his girlfriend assuring him marriage (and consequently, a marriage night one can assume) should he win, finally catches Lum. However, with his victory he gives a cry of joy for his coming marriage, which is misinterpreted by Lum to be a marriage proposal. She promptly agrees, beginning the two's "marriage" together. <span style="font-style: italic;">(Source: Anime News Network)</span>
+    </div>
+    <div style="width: 30%; padding-left: 1em;"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1293-T6Ev080pKoum.jpg" title="Urusei Yatsura"></div>
+</div>
+
+## Order
+
 **Original Series**
 | **Type** | **Entry** | **Episodes** | **Start Date** |
 | :------- | :-------- | :----------- | -------------: |

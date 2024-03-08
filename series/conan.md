@@ -3,6 +3,17 @@
 
 Detective Conan is a TV Series that has been airing since 1996. It currently has accumulated over 1100 TV Episodes, numerous specials and roughly one movie every year ever since it started first airing. Since some of the OVAs, Movies and Specials aired inbetween multi-episode cases they are not put at the exact episode the aired after. When to watch the OVAs is taken from [this guide](https://dcrewatch.tumblr.com/orderguide). Conan Magic File 01 is not listed since its not considered new content. The Scarlet Alibi is also excluded since it's an unavailable summary movie.
 
+## Synopsis
+
+<div style="display: flex;">
+    <div style="width: 70%;">
+        Shinichi Kudo is a 17-year-old high school detective whom people call the "Modern Sherlock Holmes." However, one night after a date with his childhood sweetheart Ran, Shinichi witnessed an illegal trade and was knocked unconscious and fed a drug that was supposed to kill him... but he woke up and found himself shrunken to a 7-year-old. In order to track down the men who did this to him, Shinichi reinvented his identity as Conan Edogawa and lived with Ran, whose father happened to be a hopeless detective, and with that came a series of murders and mysteries that he must solve. <span style="font-style: italic;">(Source: Anime News Network)</span>
+    </div>
+    <div style="width: 30%; padding-left: 1em;"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-XucEZpR3CRaV.jpg" title="Detective Conan"></div>
+</div>
+
+## Order
+
 | **Type** | **Entry** | **Episodes** | **Start Date** |
 | :------- | :-------- | :----------- | -------------: |
 | TV | [Detective Conan](https://anilist.co/anime/235/) | 1 - 54 | Jan 08 1996 |

@@ -8,6 +8,17 @@ An action-packed fantasy adventure by renowned author Rumiko Takahashi. Much lik
 
 Of the specials, one is untranslated while the other is a crossover episode between Takahashi's series Ranma 1/2, Urusei Yatsura and Inuyasha. Both specials are included at the end of the order.
 
+## Synopsis
+
+<div style="display: flex;">
+    <div style="width: 70%;">
+        Kagome Higurashi, after being pulled down a well by a demon, finds herself in Sengoku period of feudal Japan, where she learns that a powerful jewel has been reborn inside her body. After the jewel shatters in an attempt to retrieve it from one of the many demons who was after its power, Kagome must join forces with the half-demon Inu Yasha (also after the jewel's power) to track down the shards of the jewel before its power falls into the wrong hands. <span style="font-style: italic;">(Source: Anime News Network)</span>
+    </div>
+    <div style="width: 30%; padding-left: 1em;"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx249-YN54jZrItGgZ.png" title="Inuyasha"></div>
+</div>
+
+## Order
+
 | **Type** | **Entry** | **Episodes** | **Start Date** | **Notes** |
 | :------- | :-------- | :----------- | -------------: | :-------- |
 | TV      | [Inuyasha](https://anilist.co/anime/249/)                                                   | 1 - 55    | Oct 16 2000 |  |

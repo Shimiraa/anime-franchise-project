@@ -7,6 +7,17 @@ Rurouni Kenshin has a total of 8 Anime entries and currently 1 alternative TV An
 - 3 Specials (One is an alternative Ending to the TV Series)
 - 1 Movie
 
+## Synopsis
+
+<div style="display: flex;">
+    <div style="width: 70%;">
+        Himura Kenshin is a vagabond with a dark past and sunny disposition. Not a ronin but a rurouni, he was never a samurai, but an assassin of utmost skill in the Meiji restoration, who in the turning point of the war simply walked away. His travels lead him to Tokyo in the 11th year of the Meiji era, where he befriends a female Kendo master, a former thief, a brawler and a doctor all with their own secrets. Together they fight off the enemies surfacing from the dark past that Kenshin cannot escape. <span style="font-style: italic;">(Source: Anime News Network)</span>
+    </div>
+    <div style="width: 30%; padding-left: 1em;"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx45-DEFgZRCxiGmF.png" title="Rurouni Kenshin"></div>
+</div>
+
+## Order
+
 **Original Series:**
 | **Type** | **Entry** | **Episodes** | **Start Date** | **Notes** |
 | :------- | :-------- | :----------- | -------------: | :-------- |
