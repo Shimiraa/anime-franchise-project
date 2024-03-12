@@ -1,11 +1,7 @@
 [(Back to homepage)](../README.md)
 # Rurouni Kenshin
 
-Rurouni Kenshin has a total of 8 Anime entries and currently 1 alternative TV Anime, they consist of:
-- 1 TV Anime (+1 Alternative)
-- 4 OVAs
-- 3 Specials (One is an alternative Ending to the TV Series)
-- 1 Movie
+Rurouni Kenshin is known as a battle shounen classic from the 90s. It has shaped many modern shounen and even to this date is considered one of the great shounen. The series adapts a 90s manga of the same name, which at points ran simultaneously to the anime, ultimately leading to the later parts of the anime consisting mostly out of filler episodes. This lead to OVAs being released later on that include both a Prequel and a Sequel to the story and in 2023 a full on readaptation of the manga staying as truthful to the manga as possible.
 
 ## Synopsis
 
@@ -38,4 +34,4 @@ Rurouni Kenshin has a total of 8 Anime entries and currently 1 alternative TV An
 | **Type** | **Entry** | **Episodes** | **Start Date** | **Notes** |
 | :------- | :-------- | :----------- | -------------: | :-------- |
 | TV | [Rurouni Kenshin (2023)](https://anilist.co/anime/142877/)        | 1 - 24    | Jul 07 2023 | Readaptation of the Manga |
-| TV | [Rurouni Kenshin: Kyoto War](https://anilist.co/anime/171637/)    | 1 - ~     | 2024        | |
+| TV | [Rurouni Kenshin: Kyoto War](https://anilist.co/anime/171637/)    | 1 -       | 2024        | |
