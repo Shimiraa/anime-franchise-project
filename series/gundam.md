@@ -42,7 +42,7 @@ This order puts all Universal Century entries into the order they play in chrono
 
 *Note 2: In the case of Thunderbolt 1 & 2 most people prefer the alternative movie version, which are included under [Summary Entries](#summary-entries)*
 
-| **Type** | **Entry** | **Episodes** | **Start Date** | **UC Year** |
+| **Type** | **Entry** | **Episodes** | **Start Date** | **U.C. Year** |
 | :------- | :-------- | :----------- | -------------: | :----------- |
 | OVA       | [**The Origin (*)**](https://anilist.co/anime/10937/) | 6 | Feb 28 2015 | 0068 |
 | TV        | [**Mobile Suit Gundam (*)**](https://anilist.co/anime/80/) | 43 | Apr 07 1979 | 0079 |
@@ -73,7 +73,7 @@ This order puts all Universal Century entries into the order they play in chrono
 
 These entries purely exist as summary or alternative entries for pre-existing entries listed in the above list. In some cases like Thunderbolt people prefer the alternative version, but in most cases the general rule is to prioritize the original version first and if you want to relive the story again you can watch the alternative. The entries are put in chronological order again to make it easier to find the respective alternative version.
 
-| **Type** | **Entry** | **Episodes** | **Start Date** | **UC Year** |
+| **Type** | **Entry** | **Episodes** | **Start Date** | **U.C. Year** |
 | :------- | :-------- | :----------- | -------------: | :----------- |
 | TV    | [The Origin - Advent of the Red Comet](https://anilist.co/anime/108039/) | 13 | Apr 20 2019 | 0068 |
 | Movie | [Mobile Suit Gundam I](https://anilist.co/anime/1090/) | 1 | Mar 14 1981 | 0079 |
