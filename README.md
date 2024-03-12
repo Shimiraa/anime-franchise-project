@@ -7,6 +7,7 @@ Currently documented franchises:
 
 - [Detective Conan](./series/conan.md)
 - [Inuyasha](./series/inuyasha.md)
+- [Mobile Suit Gundam](./series/gundam.md)
 - [Monogatari Series](./series/monogatari.md)
 - [Rurouni Kenshin](./series/rurouni.md)
 - [Sailor Moon](./series/sailormoon.md)
