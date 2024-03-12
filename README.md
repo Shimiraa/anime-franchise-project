@@ -15,4 +15,5 @@ Currently documented franchises:
 
 Smaller franchises (below 10 entries):
 
+- [Cardcaptor Sakura](./series/cardcaptor.md)
 - [Slam Dunk](./series/slamdunk.md)
