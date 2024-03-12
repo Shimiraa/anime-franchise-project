@@ -9,11 +9,11 @@ The Monogatari Series is a light novel series by renowned author NISIOISIN, span
 - [Chronological](#chronological)
 
 <!-- omit in toc -->
-## Synopsis (Bakemonogatari)
+## Synopsis
 
 <div style="display: flex;">
     <div style="width: 70%;">
-        Although there are still traces of the brief period he became a vampire, third-year high school student Koyomi Araragi is human again. He happens upon others with their own supernatural problems and finds that he can empathize. Koyomi becomes involved in their lives, seeking to help them and occasionally asking for advice from Meme Oshino, the homeless man who helped him become human again. <span style="font-style: italic;">(Source: Anime News Network)</span>
+        The plot centers on Koyomi Araragi, a third-year high school student who survives a vampire attack and finds himself helping girls involved with a variety of apparitions, ghosts, beasts, spirits, and other supernatural phenomena, which often serve as proxies for their emotional and mental issues. <span style="font-style: italic;">(Source: Wikipedia)</span>
     </div>
     <div style="width: 30%; padding-left: 1em;"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5081-mzWo8ZayqhES.jpg" title="Bakemonogatari"></div>
 </div>
