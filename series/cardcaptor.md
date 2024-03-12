@@ -25,7 +25,7 @@ Cardcaptor Sakura is one of the most influental Mahou Shoujo series of the 90s. 
 | Movie     | [The Movie](https://anilist.co/anime/371/) | 1 | Aug 21 1999 |
 | TV        | [Cardcaptor Sakura](https://anilist.co/anime/232/) | 36 - 53 |  |
 | OVA       | [Specials](https://anilist.co/anime/2424/) | 2 |  |
-| TV        | [Cardcaptor Sakura](https://anilist.co/anime/232/) |  |  |
+| TV        | [Cardcaptor Sakura](https://anilist.co/anime/232/) | 54 - 70 |  |
 | Movie     | [The Movie 2: The Sealed Card](https://anilist.co/anime/372/) | 1 | Jul 15 2000 |
 | Special   | [Leave it to Kero!](https://anilist.co/anime/1078/) | 1 | Jul 15 2000 |
 | OVA       | [Clear Card Prologue - Sakura and the Two Bears](https://anilist.co/anime/98554/) | 1 | Sep 13 2017 |
