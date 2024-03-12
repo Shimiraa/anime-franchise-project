@@ -1,7 +1,7 @@
 [(Back to homepage)](../README.md)
 # Sailor Moon
 
-Sailor Moon is probably to this day one of, if not the most popular Mahou Shoujo Franchise in Anime History. The original anime airing in 19922, the series has spanned over 30 years by now and is still releasing new entries even in the 2020s. In 2014 the Series got an alternative timeline/remake that has spawned multiple titles to this day. The Remake is a closer representation of the source material as it stays more truthful to it. (Note: The second part of Crystal is actually called Season 3 in english, as part 1 was split into 2 seasons)
+Sailor Moon is probably to this day one of, if not the most popular Mahou Shoujo Franchise in Anime History. The original anime airing in 1992, the series has spanned over 30 years by now and is still releasing new entries even in the 2020s. In 2014 the Series got an alternative timeline/remake that has spawned multiple titles to this day. The Remake is a closer representation of the source material as it stays more truthful to it. (Note: The second part of Crystal is actually called Season 3 in english, as part 1 was split into 2 seasons)
 
 ## Synopsis
 
@@ -17,7 +17,7 @@ Sailor Moon is probably to this day one of, if not the most popular Mahou Shoujo
 **Original Series**
 | **Type** | **Entry** | **Episodes** | **Start Date** |
 | :------- | :-------- | :----------- | -------------: |
-| TV        | [Sailor Moon (1992)](https://anilist.co/anime/530/) | 1 - 46 | Mar 07 1992 |
+| TV        | [Sailor Moon](https://anilist.co/anime/530/) | 1 - 46 | Mar 07 1992 |
 | TV        | [Sailor Moon R](https://anilist.co/anime/740/) | 1 - 29 | Mar 06 1993 |
 | Movie     | [R: The Movie](https://anilist.co/anime/531/) | 1 | Dec 05 1993 |
 | TV        | [Sailor Moon R](https://anilist.co/anime/740/) | 30 - 43 |  |
@@ -35,7 +35,7 @@ Sailor Moon is probably to this day one of, if not the most popular Mahou Shoujo
 | **Type** | **Entry** | **Episodes** | **Start Date** |
 | :------- | :-------- | :----------- | -------------: |
 | ONA   | [Sailor Moon Crystal](https://anilist.co/anime/14751/) | 1 - 26 | Jul 05 2014 |
-| TV    | [Sailor Moon Crystal Season 3](https://anilist.co/anime/21462/) | 1 - 13 | Apr 04 2016 |
+| TV    | [Sailor Moon Crystal Season 2](https://anilist.co/anime/21462/) | 1 - 13 | Apr 04 2016 |
 | Movie | [Eternal The Movie Part 1](https://anilist.co/anime/103713/) | 1 | Jan 08 2021 |
 | Movie | [Eternal The Movie Part 2](https://anilist.co/anime/103712/) | 1 | Feb 11 2021 |
 | Movie | [Cosmos The Movie Part 1](https://anilist.co/anime/148149/) | 1 | Jun 09 2023 |
