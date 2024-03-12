@@ -7,6 +7,7 @@ Currently documented series:
 
 - [Detective Conan](./series/conan.md)
 - [Inuyasha](./series/inuyasha.md)
+- [Monogatari Series](./series/monogatari.md)
 - [Rurouni Kenshin](./series/rurouni.md)
 - [Sailor Moon](./series/sailormoon.md)
 - [Slayers](./series/slayers.md)
