@@ -14,7 +14,7 @@ Galaxy Express is one part of the Leijiverse, which is the universe of the creat
 
 ## Order
 
-*Note: Since Leiji has created stories with the idea of stories repeating itself Alternative entries like the Galaxy Express 999 Movie version are included in the normal list.*
+*Note: Since Leiji has created stories with the idea of stories repeating themselves, Alternative entries like the Galaxy Express 999 Movie version are included in the normal list.*
 <br>*Note 2: Since each entry can be watched on its own and each block is fully self-contained the episodes column is just used to show how many episodes the given entry has*
 <br>*Note 3: The Riddle of the Arcadia Episode of Space Captain Harlock plays around episode 13 of Captain Harlock and aired after Episode 17*
 
@@ -40,7 +40,7 @@ Galaxy Express is one part of the Leijiverse, which is the universe of the creat
 | TV    | [Gun Frontier](https://anilist.co/anime/1706/) | 13 | Mar 28 2002 |
 | OVA   | [Space Pirate Captain Harlock: The Endless Odyssey](https://anilist.co/anime/1081/) | 13 | Dec 21 2002 |
 | TV    | [The Galaxy Railways](https://anilist.co/anime/1490/) | 26 | Oct 04 2003 |
-| TV    | [Space Symphonic Poem Maetel ~Galaxy Express 999 Side Story~](https://anilist.co/anime/1377/) | 13 | Aug 06 2004 |
+| TV    | [Space Symphonic Poem Maetel \~Galaxy Express 999 Side Story\~](https://anilist.co/anime/1377/) | 13 | Aug 06 2004 |
 | TV    | [The Galaxy Railways 2](https://anilist.co/anime/2717/) | 24 | Oct 05 2006 |
 | OVA   | [The Galaxy Railways: A Letter from the Abandoned Planet](https://anilist.co/anime/3854/) | 4 | Dec 30 2006 |
 | Movie | [Harlock: Space Pirate](https://anilist.co/anime/17269/) | 1 | Sep 07 2013 |
