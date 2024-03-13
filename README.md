@@ -6,12 +6,14 @@ This is a project made and maintained as a small sideproject. Whenever I come ac
 Currently documented franchises:
 
 - [Detective Conan](./series/conan.md)
+- [Galaxy Express 999](./series/galaxyexpress.md)
 - [Inuyasha](./series/inuyasha.md)
 - [Mobile Suit Gundam](./series/gundam.md)
 - [Monogatari Series](./series/monogatari.md)
 - [Rurouni Kenshin](./series/rurouni.md)
 - [Sailor Moon](./series/sailormoon.md)
 - [Slayers](./series/slayers.md)
+- [Space Battleship Yamato](./series/yamato.md)
 - [Urusei Yatsura](./series/urusei.md)
 
 Smaller franchises (below 10 entries):
