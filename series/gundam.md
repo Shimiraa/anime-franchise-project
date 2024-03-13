@@ -8,7 +8,7 @@ Generally it is recommended to watch at least [Mobile Suit Gundam](https://anili
 
 All timelines:
 
-- [**Universal Century**](#universal-century)
+- [Universal Century](#universal-century)
 - [After Colony](#after-colony)
 - [Cosmic Era](#cosmic-era)
 - [Our Century / Current Century](#our-century--current-century)
@@ -26,7 +26,7 @@ All timelines:
 
 <hr>
 
-## **Universal Century**
+## Universal Century
 
 The Universal Century (short: U.C.) timeline of Gundam is ultimately considered to be the main parts of gundam. This is the central timeline and the main story. With the size of the Gundam franchise it comes to no surprise that not every single entry in the Universal Century is important to the main storyline. There is a lot of sidestories that at time don't even play remotely close to the main story. The Universal Century can be put into these orders:
 
@@ -53,7 +53,7 @@ These are the main entries that **should** be watched if you want to watch the U
 <!-- omit in toc -->
 ### Chronological Order
 
-This order puts all Universal Century entries into the order they play in chronologically, based on the U.C. Years. Main Parts and generally big / noteworthy parts are marked bold and with a (*). To keep the names shorter, the "Mobile Suit Gundam"-Part of each name is left out and in cases like Zeta Gundam or ZZ it will be turned into -> "Zeta Gundam" & "Double Zeta" to make it more clear which part is meant.
+This order puts all Universal Century entries into the order they play in chronologically, based on the U.C. Years. Main Parts and generally big / noteworthy parts are marked bold and with a (*). To keep the names shorter, the "Mobile Suit Gundam"-Part of each name is left out and in cases like Zeta or ZZ it will be turned into -> "Zeta Gundam" & "Double Zeta" to make it more clear which part is meant.
 
 *Note: [Cucuruz Doan's Island (2022)](https://anilist.co/anime/139273/) is a modern retelling of the infamous episode 15 of the original Mobile Suit Gundam, which was removed out of the official english broadcast because of subpar animation.*
 <br>*Note 2: In the case of Thunderbolt 1 & 2 most people prefer the alternative movie version, which are included under [Summary Entries](#summary-entries)*
@@ -252,7 +252,7 @@ These are centuries/timelines with only a few entries, that are 100% unrelated t
 | **Type** | **Entry** | **Episodes** | **Start Date** |
 | :------- | :-------- | :----------- | -------------: |
 | Special   | [Mobile Suit Gundam: The Witch from Mercury - PROLOGUE](https://anilist.co/anime/146922/) | 1 | Jul 14 2022 |
-| TV        | [Mobile Suit Gundam: The Witch from Mercury](https://anilist.co/anime/139274/) | 12 | Jan 08 2022 |
+| TV        | [Mobile Suit Gundam: The Witch from Mercury](https://anilist.co/anime/139274/) | 12 | Oct 02 2022 |
 | TV        | [Mobile Suit Gundam: The Witch from Mercury Season 2](https://anilist.co/anime/155158/) | 12 | Apr 09 2023 |
 
 <hr>
