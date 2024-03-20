@@ -14,6 +14,7 @@ Currently documented franchises:
 - [Sailor Moon](./series/sailormoon.md)
 - [Slayers](./series/slayers.md)
 - [Space Battleship Yamato](./series/yamato.md)
+- [The Prince of Tennis](./series/princeoftennis.md)
 - [Urusei Yatsura](./series/urusei.md)
 
 Smaller franchises (below 10 entries):
