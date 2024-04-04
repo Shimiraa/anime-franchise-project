@@ -21,6 +21,7 @@ All timelines:
   - [Post Disaster](#post-disaster)
   - [Ad Stella](#ad-stella)
 - [Correct Century](#correct-century)
+- [SD Gundam](#sd-gundam)
 
 *Note: Since the entries should be watched individually the 'Episodes' column purely serves as an indicator for how long certain parts are*
 
@@ -260,7 +261,7 @@ These are centuries/timelines with only a few entries, that are 100% unrelated t
 
 ## Correct Century
 
-Theoretically the Correct Century falls under the one-shot century category, there is one key difference tho. It is theorized that the Correct Century is a continuation of the Universal Century thousands of years later. Many people see Turn A Gundam as the gundam that most resembles Yoshiyuki Tomino's ideology and it is generally recommended not to watch this part early on, but rather watch a few other Tomino Gundam Series (or if you want to go to extreme lengths: as many as possible) before watching this part, as this is a culmination of gundam themes and ideas.
+Theoretically the Correct Century falls under the one-shot century category, there is one key difference tho. It is theorized / highly likely  that the Correct Century is a continuation of the Universal Century thousands of years later. Many people see Turn A Gundam as the gundam that most resembles Yoshiyuki Tomino's ideology and it is generally recommended not to watch this part early on, but rather watch a few other Tomino Gundam Series (or if you want to go to extreme lengths: as many as possible) before watching this part, as this is a culmination of gundam themes and ideas.
 
 **Main Series**
 | **Type** | **Entry** | **Episodes** | **Start Date** |
@@ -272,3 +273,31 @@ Theoretically the Correct Century falls under the one-shot century category, the
 | :------- | :-------- | :----------- | -------------: |
 | Movie | [Turn A Gundam I: earth Light](https://anilist.co/anime/3963/) | 1 | Feb 09 2002 |
 | Movie | [Turn A Gundam II: Moonlight Butterfly](https://anilist.co/anime/3964/) | 1 | Feb 10 2002 |
+
+<hr>
+
+
+## SD Gundam
+
+SD Gundam which is short for Superior Defender Gundam, or also Super Deformed Gundam, is a part of the Gundam Franchise which is completely unrelated to any century, other than the fact that some of the suits and in some cases some characters are taken from other entries. The series was mainly targetted towards the kid fans of the Gundam universe and also started its own Gunpla series, which is still very popular to this day.
+
+*Note: Unless they share a name / part of the name, the entries can be watched in any order. They are simply put in release order.*<br>
+*Note 2: SD Gundam's Counterattack is a spin-off of the first SD Gundam.*<br>
+*Note 3: Since all of the names include some form of "Mobile Suit SD Gundam" that part of the name is left out, unless the name of the series is directly connected to it.*
+
+| **Type** | **Entry** | **Episodes** | **Start Date** |
+| :------- | :-------- | :----------- | -------------: |
+| Special   | [Mobile Suit SD Gundam (MK. I)](https://anilist.co/anime/2302/) | 3 | Mar 12 1988 |
+| OVA       | [Mk. II](https://anilist.co/anime/2303/) | 3 | Jun 25 1989 |
+| OVA       | [SD Gundam's Counterattack](https://anilist.co/anime/2306/) | 2 | Jul 15 1989 |
+| OVA       | [Mk. III](https://anilist.co/anime/2305/) | 6 | Mar 23 1990 |
+| OVA       | [Gaiden](https://anilist.co/anime/1939/) | 4 | Apr 25 1990 |
+| OVA       | [Mk. IV](https://anilist.co/anime/2304/) | 2 | Sep 25 1990 |
+| OVA       | [Mk. V](https://anilist.co/anime/6792/) | 3 | Oct 25 1990 |
+| OVA       | [Musha Knight Command Emergency Sortie SD Gundam Scramble](https://anilist.co/anime/9087/) | 2 | Mar 16 1991 |
+| Movie     | [Festival](https://anilist.co/anime/9098/) | 1  | Mar 13 1993 |
+| TV        | [Force](https://anilist.co/anime/2391/) | 52 | Jan 07 2004 |
+| Movie     | [Chou Deneiban Sangokuden Brave Battle Warriors](https://anilist.co/anime/8132/) | 1  | Feb 27 2010 |
+| TV Short  | [Sangokuden Brave Battle Warriors](https://anilist.co/anime/8287/) | 51 | Apr 03 2010 |
+| ONA       | [World Sangoku Soketsuden](https://anilist.co/anime/108041/) | 10 | Jul 26 2019 |
+| ONA       | [World Heroes](https://anilist.co/anime/126664/) | 24 | Apr 08 2021 |
