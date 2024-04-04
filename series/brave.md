@@ -17,7 +17,7 @@ The Brave Series is a franchise started by Studio Sunrise in the early 90s. The 
 All big series in the Brave Series are unrelated to each other, meaning they can be watched completely unrelated to each other. The only cases where entries need to be watched in order is when they are part of the same part, for example GaoGaiGar and all subsequent GaoGaiGar entries.
 
 *Note: Since most, if not all entries start with "Brave" in English or "Yuusha" in Japanese those parts are left out of the title*<br>
-*Note 2: GaoGaiGar Final and GaoGaiGar Final Grand Glorious Gathering are the same stories as alternative versions*
+*Note 2: GaoGaiGar Final and GaoGaiGar Final Grand Glorious Gathering are the same stories as alternative versions*<br>
 *Note 3: In the GaoGaiGar Universe there is also another TV Series called [Betterman](https://anilist.co/anime/1136/) that is related to GaoGaiGar Final Project Z*
 
 | **Type** | **Entry** | **Episodes** | **Start Date** |
