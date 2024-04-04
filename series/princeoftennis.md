@@ -40,7 +40,7 @@
 ### The Prince of Tennis II (2012)
 
 *Note: The Prince of Tennis II is a direct continuation of The Prince of Tennis adapting a new Manga*<br>
-*Note 2: A CGI Movie connecting the original Prince of Tennis and the new Prince of Tennis II called [Ryoma! The Prince of Tennis](https://anilist.co/anime/109097/) was released in 2021*
+*Note 2: A CGI Movie connecting the original Prince of Tennis and the new Prince of Tennis II called [Ryoma! The Prince of Tennis](https://anilist.co/anime/113254/) was released in 2021*
 
 | **Type** | **Entry** | **Episodes** | **Start Date** |
 | :------- | :-------- | :----------- | -------------: |
