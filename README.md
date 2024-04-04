@@ -5,6 +5,7 @@ This is a project made and maintained as a small sideproject. Whenever I come ac
 
 Currently documented franchises:
 
+- [Brave Series](./series/brave.md)
 - [Detective Conan](./series/conan.md)
 - [Galaxy Express 999](./series/galaxyexpress.md)
 - [Inuyasha](./series/inuyasha.md)
@@ -22,3 +23,15 @@ Smaller franchises (below 10 entries):
 
 - [Cardcaptor Sakura](./series/cardcaptor.md)
 - [Slam Dunk](./series/slamdunk.md)
+
+
+
+
+ToDo:
+- City Hunter / Tsukasa Houjo Overview
+- Fate/Type-Moon Franchise
+- Gundam SD
+- Votoms
+- (Lupin III)
+- (Mitsuru Adachi Overview)
+- (Pokemon)
